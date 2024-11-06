@@ -22,8 +22,8 @@ public class LoginGUI extends JFrame {
 
     LoginGUI() {
         super("Banana Game Login");
-        setSize(700, 500); // Increased window size for a more spacious layout
-        setLocationRelativeTo(null); // Center the window
+        setSize(700, 500); 
+        setLocationRelativeTo(null); 
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
         // Load background image
